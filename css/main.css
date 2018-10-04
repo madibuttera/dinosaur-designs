@@ -18,3 +18,22 @@ html {
     font-style: italic;
     text-align: center;
   }
+
+  nav{
+    font-size: 1.125rem;
+    font-weight: bold;
+  }
+
+  nav ol {
+  list-style-type: none;
+  }
+
+  nav a {
+    color: #793284;
+    text-decoration: underline;
+  }
+
+  nav a:hover {
+    color: #b42885;
+    text-decoration: underline;
+  }
