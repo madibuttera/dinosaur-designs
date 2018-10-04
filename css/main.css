@@ -4,7 +4,7 @@ html {
   line-height: 1.5;
 }
 
-  img{
+  img {
     width: 100%;
   }
 
@@ -13,13 +13,13 @@ html {
     text-transform: uppercase;
   }
 
-  figcaption{
+  figcaption {
     font-size: .8rem;
     font-style: italic;
     text-align: center;
   }
 
-  nav{
+  nav {
     font-size: 1.125rem;
     font-weight: bold;
   }
