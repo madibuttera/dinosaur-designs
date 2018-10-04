@@ -4,29 +4,29 @@ html {
   line-height: 1.5;
 }
 
-  img {
+img {
     width: 100%;
   }
 
-  h1, h2 {
+h1, h2 {
     color: #5d8432;
     text-transform: uppercase;
     font-family: "Patua One", sans-serif;
   }
 
-  figcaption {
+figcaption {
     font-size: .8rem;
     font-style: italic;
     text-align: center;
   }
 
-  nav {
+nav {
     font-size: 1.125rem;
     font-weight: bold;
     font-family: "Patua One", sans-serif;
   }
 
-  nav ol {
+nav ol {
   list-style-type: none;
   }
 
